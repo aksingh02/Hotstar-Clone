@@ -320,3 +320,10 @@ body {
 .nxt-btn:hover img{
     opacity: 5;
 }
+
+.bottom-container{
+    text-align: center;
+    color: #aaa;
+    font-family: sans-serif;
+    font-weight: bolder;
+}
